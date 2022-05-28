@@ -16,6 +16,7 @@ class Dlib_Face_Unlock:
 		#this is to detect if the directory is found or not
 		try:
 			#this will open the existing pickle file to load in the encoded faces of the users who has sign up for the service
+			#change the below address according to the address of the file in your pc
 			with open (r"C:\Users\HP\Desktop\Code-master\Face Recognition\labels.pickle",'rb') as self.f:
 				self.og_labels = pickle.load(self.f)
 			print(self.og_labels)
@@ -73,6 +74,7 @@ class Dlib_Face_Unlock:
 			with open('KnownFace.pickle','wb') as self.known_faces_file:
 				pickle.dump(self.known_faces, self.known_faces_file)
 		else:
+			#change the below address according to the address of the file in your pc
 			with open (r"C:\Users\HP\Desktop\Code-master\Face Recognition\KnownFace.pickle",'rb') as self.faces_file:
 				self.known_faces = pickle.load(self.faces_file)
 			print(self.known_faces)
