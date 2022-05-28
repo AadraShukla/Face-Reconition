@@ -2,7 +2,7 @@
 Face Recognition Login and Emotion Identification Desktop App
 
 Requirements:
-1. Install Pytthon 3.9 (64-bit) from [https://www.python.org/downloads/release/python-3913/](https://www.python.org/ftp/python/3.9.13/python-3.9.13-embed-amd64.zip)
+1. Install Pytthon 3.9 (64-bit) from [https://www.python.org/downloads/release/python-3913/](https://www.python.org/ftp/python/3.9.13/python-3.9.13-embed-amd64.zip)](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
 2. Install cmake from [https://cmake.org/download/](https://github.com/Kitware/CMake/releases/download/v3.23.2/cmake-3.23.2-windows-x86_64.msi)
 3. Install visual studio visual cpp build tools [https://visualstudio.microsoft.com/visual-cpp-build-tools/](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 4. Add cmake to path variables
