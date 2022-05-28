@@ -13,7 +13,7 @@ Requirements:
 10. Now type pip install deepface and hit enter
 
 
-When all the requirements have been fulfilled download the code and change the pickle file destinations in line 17 and 76 according to your pc, in the code.
+When all the requirements have been fulfilled download the code and change the pickle file destinations in line 19 and 76 according to your pc, in the code.
 Now, Run the code.
 
 To click pictures hit spacebar during the login and registration processes.
