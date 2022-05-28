@@ -3,8 +3,8 @@ Face Recognition Login and Emotion Identification Desktop App
 
 Requirements:
 1. Install Pytthon 3.9 (64-bit) from [https://www.python.org/downloads/release/python-3913/](https://www.python.org/ftp/python/3.9.13/python-3.9.13-embed-amd64.zip)
-2. Install cmake from https://cmake.org/download/
-3. Install visual studio visual cpp build tools https://visualstudio.microsoft.com/visual-cpp-build-tools/
+2. Install cmake from [https://cmake.org/download/](https://github.com/Kitware/CMake/releases/download/v3.23.2/cmake-3.23.2-windows-x86_64.msi)
+3. Install visual studio visual cpp build tools [https://visualstudio.microsoft.com/visual-cpp-build-tools/](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 4. Add cmake to path variables
 6. Open the scripts folder inside the python folder and type cmd in the address bar to open the command prompt
 7. In the command prompt type pip install opencv-python and hit enter
